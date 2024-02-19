@@ -1,1 +1,1 @@
-web: gunicorn LWF.wsgi
+web:gunicorn LWFTEST.wsgi
